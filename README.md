@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Boas vindas ao meu perfil 💙💙
+Meu nome é Maria Clara Pereira
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+Você pode entrar em contato comigo 📫
+mariaclaraperola@gmail.com
+
+@mariaclara0ereira1
+
+![clip-transparent-shark-gif-17](https://github.com/user-attachments/assets/752ab495-bb40-4384-85bb-ec58e2f0fb48)
